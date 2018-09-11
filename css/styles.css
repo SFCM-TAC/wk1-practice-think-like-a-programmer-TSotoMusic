@@ -1,2 +1,5 @@
 /* TODO: Add your styles here */
-.question {text-decoration: underline; text-decoration-style: solid; font-size: 24; padding-bottom: 10px; padding-top: 25px;}
+.question {text-decoration: underline;}
+.question {text-decoration-style: solid;}
+.question {font-size: 24;}
+.question {padding-bottom: 10px; padding-top: 25px;}
