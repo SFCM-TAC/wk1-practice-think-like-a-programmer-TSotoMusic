@@ -5,3 +5,9 @@
 .question {padding-bottom: 10px; padding-top: 25px;}
 #aboutYou {font-family: "Arial"}
 #programmingQuestions {font-style: italic;}
+.header2 {padding-top: 80px}
+#header {background-color: lightgreen;}
+body {
+  background-color: lightblue;
+}
+  </body>
